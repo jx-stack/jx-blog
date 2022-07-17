@@ -1,6 +1,6 @@
 baseURL = 'https://jx-stack.xyz/'
 languageCode = 'en-us'
-title = "jx-stack personal site"
+title = "jx-stack site"
 theme = "smol"
 publishDir = "docs"
 
