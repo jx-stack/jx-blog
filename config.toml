@@ -20,14 +20,4 @@ theme = "smol"
   [[menu.footer]]
         name = "Github"
         url = "https://github.com/jx-stack"
-        weight = 1 
-
-    [[menu.footer]]
-        name = "Mastodon"
-        url = "https://example.com/@user"
-        weight = 2 
-
-    [[menu.footer]]
-        name = "Imprint"
-        url = "/imprint"
-        weight = 3 
+        weight = 1
