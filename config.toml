@@ -19,7 +19,7 @@ theme = "smol"
 # Footer
   [[menu.footer]]
         name = "Github"
-        url = "https://github.com/jx-s"
+        url = "https://github.com/jx-stack"
         weight = 1 
 
     [[menu.footer]]
