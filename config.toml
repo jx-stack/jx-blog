@@ -19,6 +19,6 @@ publishDir = "docs"
 
 # Footer
   [[menu.footer]]
-        name = "Github"
+        name = "GitHub"
         url = "https://github.com/jx-stack"
         weight = 1
