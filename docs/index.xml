@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>jx-stack site</title>
+    <title>jx-stack personal site</title>
     <link>https://jx-stack.xyz/</link>
-    <description>Recent content on jx-stack site</description>
+    <description>Recent content on jx-stack personal site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jx-stack.xyz/index.xml" rel="self" type="application/rss+xml" />
