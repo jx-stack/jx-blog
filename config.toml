@@ -2,6 +2,7 @@ baseURL = 'https://jx-stack.xyz/'
 languageCode = 'en-us'
 title = "jx-stack personal site"
 theme = "smol"
+publicDir = "docs"
 
 [menu]
   [[menu.main]]
